@@ -1,0 +1,30 @@
+
+--------------------
+Burger:
+1. project folder 
+2. resource: img, font, color
+
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Montserrat', sans-serif;
+------------------------------
+color:
+upper-menu: montserrat bold :: color: #3d2514;
+menu: bebas neue bold (shadow:#fee8bc)
+
+
+
+how to integrate a slider/plugin in your project
+-------------
+step 01: download the file (owl carousel/bx slider/swiper js)
+step 02: css+js (link up file) -> link
+step 03: code (js/jquery) -> link
+step 04: html -> link
+
+ffc045
+
+
+
+
+
+ 
