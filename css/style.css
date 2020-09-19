@@ -254,3 +254,140 @@ section{
 	transition: .5s;
 	/*transform: scale(1.1);*/ 
 }
+/*Display css start */
+.display-itmes{
+	width: 100%;
+	float: left;
+}
+.display-header{
+	width: 100%;
+	float: left;
+}
+.display-header h1{
+	
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 200px;
+    color: #3d2514;
+    letter-spacing: 2px;
+    font-size: 60px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.display-header p{
+	text-align: center;
+    font-family: 'Alfa Slab One', cursive;
+    color: #3d2514;
+    font-size: 14px;
+    margin: 10px auto; 
+}
+.display-body{
+	width: 100%;
+	float: left;
+	text-align: center;
+
+}
+.contain-left{
+	width: 33%;
+	height: 50vh;
+	display: table-cell;
+	vertical-align: middle;
+}
+.contain-left h1{
+	font-family: 'Bebas Neue', cursive;
+    color: #3d2514;
+    letter-spacing: 3px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.contain-left p{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 15px;
+	color: #3d2514;
+	margin: 10px auto;
+}
+.contain-left .order-button button{
+	width: 175px;
+	height: 60px;
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 17px;
+	text-transform: uppercase;
+	color: white;
+	background: red;
+	transition: .5s;
+}
+.order-button button:hover{
+	cursor: pointer;
+	color: green;
+	transform: scale(1.03);
+	transition: .5s;
+}
+.contain-middile{
+	width: 33%;
+	height: 50vh;
+	display: table-cell;
+	vertical-align: middle;
+}
+.contain-middile h1{
+font-family: 'Bebas Neue', cursive;
+    color: #3d2514;
+    letter-spacing: 3px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.contain-middile p{
+font-family: 'Alfa Slab One', cursive;
+    font-size: 15px;
+	color: #3d2514;
+	margin: 10px auto;
+}
+.contain-middile button{
+	width: 175px;
+	height: 60px;
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 17px;
+	text-transform: uppercase;
+	color: white;
+	background: red;
+	transition: .5s;
+}
+.contain-middile button:hover{
+	cursor: pointer;
+	color: green;
+	transform: scale(1.03);
+	transition: .5s;
+}
+.contain-right{
+	width: 33%;
+	height: 50vh;
+	display: table-cell;
+	vertical-align: middle;
+}
+.contain-right h1{
+	font-family: 'Bebas Neue', cursive;
+    color: #3d2514;
+    letter-spacing: 3px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.contain-right p{
+	font-family: 'Alfa Slab One', cursive;
+    font-size: 15px;
+	color: #3d2514;
+	margin: 10px auto;
+}
+.contain-right button{
+	width: 175px;
+	height: 60px;
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 17px;
+	text-transform: uppercase;
+	color: white;
+	background: red;
+	transition: .5s;
+}
+.contain-right button:hover{cursor: pointer;
+	color: green;
+	transform: scale(1.03);
+	transition: .5s;
+}
