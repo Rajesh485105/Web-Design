@@ -84,7 +84,7 @@ a,a:hover{text-decoration: none;}
 	float: right;
 }
 .left-cointain{
-    height: 30vh;	
+    height: 60vh;	
 	display: table-cell;
 	vertical-align: middle;
 }
@@ -115,7 +115,7 @@ a,a:hover{text-decoration: none;}
     text-shadow: 3px 4px #fee8bb;
 }
 .right-cointain{
-	height: 30vh;
+	height: 60vh;
 	display: table-cell;
 	vertical-align: middle;
 	
@@ -181,10 +181,12 @@ section{
 .seciton-left{
 	width: 49%;
     float: left; 
+        margin-top: 50px;
 }
 .section-right{
     width: 49%;
-    float: right;  
+    float: right;
+        margin-top: 50px;  
 }
 
 .sec-left-cointain{
