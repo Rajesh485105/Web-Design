@@ -318,7 +318,7 @@ section{
 	width: 175px;
 	height: 60px;
 	font-family: 'Alfa Slab One', cursive;
-	font-size: 17px;
+	font-size: 16px;
 	text-transform: uppercase;
 	color: white;
 	background: red;
@@ -326,8 +326,8 @@ section{
 }
 .order-button button:hover{
 	cursor: pointer;
-	color: green;
-	transform: scale(1.03);
+	color: #ffc045;
+	transform: scale(0.95);
 	transition: .5s;
 }
 .contain-middile{
@@ -353,7 +353,7 @@ font-family: 'Alfa Slab One', cursive;
 	width: 175px;
 	height: 60px;
 	font-family: 'Alfa Slab One', cursive;
-	font-size: 17px;
+	font-size: 16px;
 	text-transform: uppercase;
 	color: white;
 	background: red;
@@ -361,8 +361,8 @@ font-family: 'Alfa Slab One', cursive;
 }
 .contain-middile button:hover{
 	cursor: pointer;
-	color: green;
-	transform: scale(1.03);
+	color: #ffc045;
+	transform: scale(0.95);
 	transition: .5s;
 }
 .contain-right{
@@ -388,21 +388,22 @@ font-family: 'Alfa Slab One', cursive;
 	width: 175px;
 	height: 60px;
 	font-family: 'Alfa Slab One', cursive;
-	font-size: 17px;
+	font-size: 16px;
 	text-transform: uppercase;
 	color: white;
 	background: red;
 	transition: .5s;
 }
 .contain-right button:hover{cursor: pointer;
-	color: green;
-	transform: scale(1.03);
+	cursor: pointer;
+	color: #ffc045;
+	transform: scale(0.95);
 	transition: .5s;
 }
 /*Slider css start here*/
 
 .slider-box{
-	    width: 94%
+    width: 94%;
 	display: flow-root;
 	padding: 55px;
         
