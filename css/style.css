@@ -586,7 +586,7 @@ input {
 	color: #3d2514;
     font-size: 16px;
     color: white;
-    margin-bottom: 245px;
+    margin-bottom: 330px;
 }
 
 .fotter-left-cointain h1{
@@ -610,7 +610,6 @@ input {
 	color: white;
     font-size: 18px; 
 }
-
 .fotter-banner-right{
 	width: 50%;
 	float:right;
@@ -657,16 +656,21 @@ input {
 .icon ul li a i{
 	color: white;
 	font-size: 30px;
-
 	padding-bottom: 10px;
+	transition: .5s;
+}
+.icon ul li a i:hover{
+	color: #ffc045;
+     transition: .5s;
+     transform: scale(1.06);
 }
 
 .socialicon{
     width: 100%;
     float: right;
     position: absolute;
-    left: 390px;
-    bottom: -250px;
+    left: 380px;
+    bottom: -335px;
 }
 
 
@@ -685,9 +689,12 @@ input {
     line-height: 40px;
     border-radius: 50%;
     font-size: 22px;
+    transition: .5s;
 }
 .socialicon ul li a i:hover{
 	color: white;
     background: #ffc045;
      font-size: 25px;
+     transform: scale(1.06);
+     transition: .5s;
 }
