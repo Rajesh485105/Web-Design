@@ -495,7 +495,7 @@ font-family: 'Alfa Slab One', cursive;
 	} 
 .reservationbtn:hover{
 		color: white;
-		color: #ffc045;
+		color: #ffc045!important;
 		transform: scale(0.95);
 		transition: .5s;}
 .res-head{
